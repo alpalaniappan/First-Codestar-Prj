@@ -9,7 +9,7 @@ What's Here
 
 This sample includes:
 
-* README.md - this file - for test and learn
+* README.md - this file - for test and learn, second update
 * buildspec.yml - this file is used by AWS CodeBuild to package your
   application for deployment to AWS Lambda
 * index.py - this file contains the sample Python code for the web service
